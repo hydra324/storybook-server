@@ -1,3 +1,11 @@
 numpy
 transformers
 torch
+diffusers>=0.19.0
+invisible_watermark
+accelerate
+safetensors
+optimum[onnxruntime]
+huggingface_hub[cli]
+nltk
+spacy

@@ -1,2 +1,5 @@
 *-env
 *.pyc
+*.png
+*.log
+settings.json
